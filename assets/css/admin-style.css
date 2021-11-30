@@ -1,0 +1,15 @@
+/* body{
+    background: rgb(70, 67, 67) !important;
+} */
+tr:hover{
+    cursor: pointer;
+}
+
+.btn-purple {
+    color: #fff !important;
+    background-color: #6f42c1 !important;
+    border-color: #643ab0 !important;
+}
+.modal-body div{float:left; width: 100%}
+.modal-body div p{float:left; width: 20%; font-size: 15px; font-weight: bold;}
+.modal-body div span{float:left; width: 80%; font-size: 15px}
